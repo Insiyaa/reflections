@@ -14,11 +14,17 @@ stuffs which go well together.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When creating versions having different language, this could be helpful in
+organizing. I could easily take that version ahead without disrupting the
+original version.
 
 How do the diagrams help you visualize the branch structure?
+Beautifully. I am able to understand reachability through them.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+It takes properties from both of its parent and the original source from where it diverged.
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
