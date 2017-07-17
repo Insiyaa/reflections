@@ -28,3 +28,4 @@ It takes properties from both of its parent and the original source from where i
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Saves a lot of work and also blunders by pointing out conflicts to be solved by us. 
